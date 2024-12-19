@@ -32,8 +32,8 @@ I am a student at <b>Muhammad Ali Jinnah University</b>, currently pursuing a <b
 
 <h2 align="left">📬 Contact Me</h2>
 <p align="left">
-  - 📧 <b>Email:</b> <span>[Your Gmail]</span><br>
-  - 🌐 <b>LinkedIn:</b> <span>[Your LinkedIn]</span>
+  - 📧 <a href="mailto:muzamilazhar505@gmail.com">Email</a><br>
+  - 🌐 <a href="https://www.linkedin.com/in/muzamil-azhar-79a785324/">Linkedin</a>
 </p>
 
 ---
